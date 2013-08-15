@@ -4,6 +4,7 @@ At this time, the object manager handles collisions, so you have to override the
 How to use: 
 
 To use the GameGobject, you have to create a new object or entity class that inherits from Object.
+don't forget to call Supervisor::update() to update the world after logic oprerations.
 
 
 Licence: 
