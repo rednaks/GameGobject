@@ -5,3 +5,6 @@ How to use:
 
 To use the GameGobject, you have to create a new object or entity class that inherits from Object.
 
+
+Licence: 
+This code is under MIT Licence. More information in the code source's headers.
